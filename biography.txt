@@ -1,8 +1,23 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+	My name is Komlan Setodji
 2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	I'm interested in Data Science because I want to persue a career as a Data Scientist.
+3. Tell us a little bit about your programming experience.
+	I've used in the past C++, SAS, R and SQL. I only got the chance to use SAS and SQL at my previous job.
+  What programming courses have you taken? 
+	C++
+ Do you use programming on the job, and if so, how?
+	In the past I did use SAS and SQL when I was working at Target as a Quality DAta Analyst.
+4.  Tell us a little bit about your statistics experience.
+	I have a Bachelor of Science in Statistics.
+  What statistics courses have you taken?
+	I took lot of statistics courses as part of the degree requirements.
+  Do you use statistics on the job, and if so, how?
+	No, I never used it on the job unfortunatelly.
 5.  Do you have other experience with R or Python?
+	I used throughout my courses R a lot.
 6.  What do you hope to learn in this class?
+	My main goal in this class is to learn Python, and build upon R knowledge that I have.
 7.  Is there anything else you would like to share with us?
+	I look forward to learning from each and everyone in this class.
